@@ -32,7 +32,12 @@ body {
 }
 
 .geral {
-    background-color: #4e4a48;
+    background-color: #6277B9;
+    border: 0px;
+}
+
+.geral2 {
+    background-color: #69a1ad;
     border: 0px;
 }
 
